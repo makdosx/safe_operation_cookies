@@ -1,7 +1,7 @@
 <?php
 
 
-   // SET SAFE COOKIES
+   // SAFE OPERATION COOKIES
 
     class  COOKIES_OPERATION
         {
