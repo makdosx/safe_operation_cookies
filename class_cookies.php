@@ -228,7 +228,7 @@
              }
 
 
-         } // end of class
+         } // end of class with extends
 
 
 ?>
